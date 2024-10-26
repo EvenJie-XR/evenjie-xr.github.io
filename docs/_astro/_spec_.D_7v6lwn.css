@@ -1,9 +1,9 @@
 @font-face {
   font-family: iconfont;
   src:
-    url(/astro-gyoza-personal-blog/fonts/iconfont.woff2?t=1716210197380) format('woff2'),
-    url(/astro-gyoza-personal-blog/fonts/iconfont.woff?t=1716210197380) format('woff'),
-    url(/astro-gyoza-personal-blog/fonts/iconfont.ttf?t=1716210197380) format('truetype');
+    url(/fonts/iconfont.woff2?t=1716210197380) format('woff2'),
+    url(/fonts/iconfont.woff?t=1716210197380) format('woff'),
+    url(/fonts/iconfont.ttf?t=1716210197380) format('truetype');
 }
 .iconfont {
   font-family: iconfont;
@@ -455,14 +455,14 @@ html.is-animating .swup-transition-fade {
 }
 @font-face {
   font-family: Atkinson;
-  src: url(/astro-gyoza-personal-blog/fonts/atkinson-regular.woff) format('woff');
+  src: url(/fonts/atkinson-regular.woff) format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Atkinson;
-  src: url(/astro-gyoza-personal-blog/fonts/atkinson-bold.woff) format('woff');
+  src: url(/fonts/atkinson-bold.woff) format('woff');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
