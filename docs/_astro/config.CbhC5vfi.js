@@ -1,5 +1,5 @@
 const a = {
-    url: 'https://evenjie-xr.github.io/astro-gyoza-personal-blog/',
+    url: 'https://evenjie-xr.github.io',
     title: 'Gyoza',
     description: '这是一个使用 Astro 和 React 开发的博客主题。',
     keywords: 'Gyoza,blog,Astro,theme,lxchapu,博客主题',
@@ -7,12 +7,12 @@ const a = {
     favicon: '/favicon.ico',
     appleTouchIcon: '/apple-touch-icon.png',
   },
-  o = {
+  t = {
     name: 'lxchapu',
     twitterId: '@lxchapu',
     avatar: 'https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp',
   },
-  t = {
+  o = {
     name: 'Gyoza',
     bio: 'A static blog template build with Astro and React.',
     description: 'Clean, Cute, Fast.',
@@ -65,4 +65,4 @@ const a = {
   ],
   n = { startTime: '2024-04-14T00:00:00Z' },
   e = { wechat: 'https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp' }
-export { e as a, o as b, i as c, n as f, t as h, c as m, a as s }
+export { e as a, t as b, i as c, n as f, o as h, c as m, a as s }

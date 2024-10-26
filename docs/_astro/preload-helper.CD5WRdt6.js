@@ -1,37 +1,37 @@
 const v = 'modulepreload',
-  p = function (l) {
-    return '/' + l
+  p = function (i) {
+    return '/astro-gyoza-personal-blog/' + i
   },
   f = {},
-  E = function (d, i, h) {
+  g = function (d, l, h) {
     let a = Promise.resolve()
-    if (i && i.length > 0) {
+    if (l && l.length > 0) {
       const r = document.getElementsByTagName('link'),
         n = document.querySelector('meta[property=csp-nonce]'),
         u = n?.nonce || n?.getAttribute('nonce')
       a = Promise.all(
-        i.map((e) => {
+        l.map((e) => {
           if (((e = p(e)), e in f)) return
           f[e] = !0
-          const s = e.endsWith('.css'),
-            m = s ? '[rel="stylesheet"]' : ''
+          const o = e.endsWith('.css'),
+            m = o ? '[rel="stylesheet"]' : ''
           if (!!h)
-            for (let o = r.length - 1; o >= 0; o--) {
-              const c = r[o]
-              if (c.href === e && (!s || c.rel === 'stylesheet')) return
+            for (let s = r.length - 1; s >= 0; s--) {
+              const c = r[s]
+              if (c.href === e && (!o || c.rel === 'stylesheet')) return
             }
           else if (document.querySelector(`link[href="${e}"]${m}`)) return
           const t = document.createElement('link')
           if (
-            ((t.rel = s ? 'stylesheet' : v),
-            s || ((t.as = 'script'), (t.crossOrigin = '')),
+            ((t.rel = o ? 'stylesheet' : v),
+            o || ((t.as = 'script'), (t.crossOrigin = '')),
             (t.href = e),
             u && t.setAttribute('nonce', u),
             document.head.appendChild(t),
-            s)
+            o)
           )
-            return new Promise((o, c) => {
-              t.addEventListener('load', o),
+            return new Promise((s, c) => {
+              t.addEventListener('load', s),
                 t.addEventListener('error', () => c(new Error(`Unable to preload CSS for ${e}`)))
             })
         }),
@@ -44,4 +44,4 @@ const v = 'modulepreload',
         if (((n.payload = r), window.dispatchEvent(n), !n.defaultPrevented)) throw r
       })
   }
-export { E as _ }
+export { g as _ }
