@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
 Sitemap: https://evenjie-xr.github.io/sitemap-index.xml
