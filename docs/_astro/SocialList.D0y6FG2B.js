@@ -1,6 +1,6 @@
 import { j as t } from './jsx-runtime.CvXbGX33.js'
 import { c as r } from './clsx.B-dksMZM.js'
-import { h as n } from './config.-o55578i.js'
+import { h as n } from './config.IoFMS3Ro.js'
 import { m as i } from './motion.UigYBGvC.js'
 import './index.BFw_thZa.js'
 import './_commonjsHelpers.Cpj98o6Y.js'

@@ -1,5 +1,5 @@
 const a = {
-    url: 'https://gyoza.lxchapu.com',
+    url: 'https://evenjie-xr.github.io/astro-gyoza-personal-blog/',
     title: 'Gyoza',
     description: '这是一个使用 Astro 和 React 开发的博客主题。',
     keywords: 'Gyoza,blog,Astro,theme,lxchapu,博客主题',
@@ -64,5 +64,5 @@ const a = {
     { name: '友链', link: '/friends', icon: 'icon-hearts' },
   ],
   n = { startTime: '2024-04-14T00:00:00Z' },
-  r = { wechat: 'https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp' }
-export { r as a, o as b, i as c, n as f, t as h, c as m, a as s }
+  e = { wechat: 'https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp' }
+export { e as a, o as b, i as c, n as f, t as h, c as m, a as s }

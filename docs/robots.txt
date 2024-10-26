@@ -4,4 +4,4 @@ Allow: /
 Disallow: /_astro/
 Disallow: /fonts/
 
-Sitemap: https://gyoza.lxchapu.com/sitemap-index.xml
+Sitemap: https://evenjie-xr.github.io/astro-gyoza-personal-blog/sitemap-index.xml
