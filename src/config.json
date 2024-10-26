@@ -14,9 +14,9 @@
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "EvenJie",
+    "bio": "A Frontend Developer.",
+    "description": "Frontend ( Babylon.js, Three.js, turf.js, MapboxGL, CesiumGS, Nuxt3, Vue3, TypeScript, TailwindCSS ). Backend ( Node.js, Python, Java, Spring, MySQL, PostgreSQL). GameEngine ( UnrealEngine, Unity ). XR ( ARCore, ARKit, AREngine ).",
     "socials": [
       {
         "name": "Github",
