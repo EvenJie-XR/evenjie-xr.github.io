@@ -5,18 +5,18 @@
     "description": "Web3D工程师的个人博客",
     "keywords": "blog,博客,EvenJie,Jie,Even,Cesium,Three,mapbox,babylon",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "https://avatars.githubusercontent.com/u/62193477?v=4"
+    "favicon": "/favicon.jpg",
+    "appleTouchIcon": "/favicon.jpg"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
-    "avatar": "https://avatars.githubusercontent.com/u/62193477?v=4"
+    "name": "EvenJie",
+    "twitterId": "@EvenJie",
+    "avatar": "/favicon.jpg"
   },
   "hero": {
     "name": "EvenJie",
     "bio": "A Web3D Enginner.",
-    "description": "Frontend ( Babylon.js, Three.js, turf.js, MapboxGL, CesiumGS, Nuxt3, Vue3, TypeScript, TailwindCSS ). Backend ( Node.js, Python, Java, Spring, MySQL, PostgreSQL). GameEngine ( UnrealEngine, Unity ). XR ( ARCore, ARKit, AREngine ).",
+    "description": "Sector: digital twin、laser radar、virtual reality \n\nTechstack: \n\n- Frontend ( Babylon.js, Three.js, turf.js, MapboxGL, CesiumGS, Nuxt3, Vue3, TypeScript, TailwindCSS ). \n\n- Backend ( Node.js, Python, Java, Spring, MySQL, PostgreSQL). \n\n- GameEngine ( UnrealEngine, Unity ). \n\n- XR ( ARCore, ARKit, AREngine ).",
     "socials": [
       {
         "name": "Github",

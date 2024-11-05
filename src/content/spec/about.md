@@ -4,27 +4,40 @@ description: 这是一份站长的自述报告，请查收。
 comments: false
 ---
 
-## 关于 Gyoza
-
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
-
-Gyoza 的核心理念是简洁，快速，可爱。
-
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
-
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
-
 ## 关于作者
 
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+从初中开始接触编程，后进入多家科技公司实习。
 
-## 致谢
+- 北京飞渡科技有限公司（智慧城市、数字孪生、地理信息）
+  - 腾讯和华为参投
+  - 数字孪生行业领先企业
+- 深圳其域创新有限公司（激光雷达、数字孪生、数字藏品、地理信息）
+  - 原大疆智图团队
+- 深圳绘见科技有限公司（虚拟现实、地理信息、智慧城市）
+  - 专注大空间AR定位的虚拟现实创业型公司
 
-感谢以下项目：
+曾参与的标志性项目:
 
-- [Astro](https://astro.build/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Jotai](https://jotai.org/)
+- 南宁市CIM基础平台
+  - 项目荣获“2022年全国数字孪生技术应用潜力案例”
+  - 使用GIS + Web3D技术帮助南宁市自然资源局实现城市的便捷规划和管理
+- 深圳市“圳智慧”平台
+  - 深圳市南山区重点智慧城市标杆项目
+  - 使用GIS + Web3D技术帮助南山区政府便捷规划和管理
+- 灵光Lixel L1产品
+  - 负责手持激光雷达的APP开发及桌面端点云编辑工具的开发
+  - 曾在CCTV播报
+- ARHub
+  - 基于RTK的大空间AR定位设备，使用RTK卫星信号实现室外大空间场景的AR使用
+- 香港科技大学洪水监测预警系统和工地安全预警系统
+  - 使用GIS + AI技术帮助香港地区多街道洪水监控
+  - 使用AI技术实现通用型的工地安全预警系统
+  - 项目在香港电视台报道
+
+教育:
+
+- 深圳大学 计算机科学与技术 大二在读
+  - 华为智能基座深大社团 项目合伙人
+  - 深圳大学腾讯创新俱乐部 荣誉部长
+  - 深圳大学未来媒体计算研究所 王旭老师大模型技术实验室技术外援
+- TOPIK II级

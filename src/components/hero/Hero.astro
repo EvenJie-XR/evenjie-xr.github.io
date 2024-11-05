@@ -12,7 +12,7 @@ import Highlight from '@/components/Highlight.astro'
       <h1 class="text-3xl text-center lg:text-left text-balance">
         Hi there, I'm <Highlight class="font-bold">{hero.name}</Highlight>👋<br />{hero.bio}
       </h1>
-      <div class="text-sm text-secondary mt-3 text-center lg:text-left">{hero.description}</div>
+      <div class="text-sm text-secondary mt-3 text-center lg:text-left whitespace-pre-line">{hero.description}</div>
       <SocialList className="mt-[60px]" client:load />
     </div>
     <div class="mt-20 lg:mt-0">
